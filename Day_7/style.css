@@ -1,0 +1,15 @@
+#container {
+  background-color: linear-gradient(lightgreen, #0fc702);
+  padding: 16px;
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+  width: 300px;
+  margin: 16px;
+}
+.heading {
+    color: darkgreen;
+}
+#p01 {
+  color: #42e0f5;
+}
